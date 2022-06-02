@@ -158,3 +158,9 @@ body {
     font-size: 14px;
     margin-bottom: 2em;
 }
+
+.footer__text a {
+    color: var(--grey-secondary);
+    font-size: 14px;
+    text-decoration: none;
+}
