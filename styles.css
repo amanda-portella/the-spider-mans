@@ -165,6 +165,6 @@ body {
     text-decoration: none;
 }
 
-.footer__text a {
+.footer__text a:hover {
     text-decoration: underline;
 }
