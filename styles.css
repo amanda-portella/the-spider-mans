@@ -164,3 +164,7 @@ body {
     font-size: 14px;
     text-decoration: none;
 }
+
+.footer__text a {
+    text-decoration: underline;
+}
