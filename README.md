@@ -15,7 +15,7 @@ Baseado no curso HTML e CSS: Praticando HTML/CSS da Alura.
     
   - ``CSS 3``
     
-  - ``Metodlogia BEM``
+  - ``Metodologia BEM``
     
   - ``Grid``
     
